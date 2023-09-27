@@ -1,5 +1,5 @@
 # DevSecOps
-Tesi di laurea sul **modello DevSecOps**, analizzando il suo passato, presente e futuro.
+**Tesi di laurea triennale** sul **modello DevSecOps**, analizzando il suo passato, presente e futuro.
 
 La tesi è composta da quattro capitoli:</br>
 **1 - DevOps:** analisi dei modelli di sviluppo classici: modello a cascata, modello agile e DevOps. 
