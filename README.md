@@ -11,4 +11,4 @@ Di questo modello si analizzano le sue peculiarità, i suoi vantaggi, le sue bes
 **4 - Futuro di DevSecOps:** valutazione delle sfide che DevSecOps deve superare nel futuro prossimo per essere adottato su larga scala. 
 Infine, si effettua un'analisi delle nuove tecnologie che potrebbero migliorare e perfezionare questo modello.</br>
 
-**Tesi di laurea triennale** in **Ingegneria informatica**, ambito **Sicurezza informatica**, presso **Alma Mater Studiorum Università di Bologna (Unibo)**, anno accademico **2022/2023**.
+**Tesi di laurea triennale** in **Ingegneria informatica**, ambito **Sicurezza informatica**, presso **Alma Mater Studiorum Università di Bologna (Unibo)**, anno accademico **2020/2021**.
